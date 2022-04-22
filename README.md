@@ -49,7 +49,7 @@ Approach: We utilized the groupby function and count function. We found that the
 
 We also noticed that crime decreased year over year from 2019 to 2021. Which was surprising because we assumed it would increase due to the pandemic and amount of news coverage we noticed.<br>
 
-![yearly_crime_line](https://user-images.githubusercontent.com/99552456/164772592-b3105f4f-1026-40b2-b737-b46f53a23e97.png)
+![Yearly Crime Trend (2019-2021)](https://user-images.githubusercontent.com/99552456/164788861-e1974451-ba93-498b-9862-a208fd864407.png)
 
 ## Section II<br>
 Objectives: In this section, we wanted to analyze the total number of crimes and total number of arrests in chicago for each of last three years. We also wanted to know percentage of crimes that resulted into arrest for each year. We also wanted to see distribution of crimes by domestic and non-domestic. 
