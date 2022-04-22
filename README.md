@@ -43,7 +43,7 @@ From our anlaysis we found that the two districts where crimes occured most freq
 ## Section I (Ryan images) <br>
 Objective: In this section we analyzed the types of crimes committed. We analyzed which crimes were most commonly committed and which crimes were least commonly committed. We analyzed what the trend of overall crimes committed was from 2019 to 2021.<br>
 
-Approach: We utilized the groupby function and count function. We found that theft was the most commonly committed crime in total for past three years and Ritualism was the least commonly committed crime. <br>
+Approach: We utilized the groupby function and count function. We found that Theft was the most commonly committed crime in total for past three years and Ritualism was the least commonly committed crime. <br>
 
 ![Ten Most Common Crimes](https://user-images.githubusercontent.com/99552456/164772226-d6a407bb-df26-4e1f-a47d-bd9396ecdaa4.png)
 
