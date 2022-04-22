@@ -42,8 +42,14 @@ From our anlaysis we found that the two districts where crimes occured most freq
 
 ## Section I (Ryan images) <br>
 Objective: In this section we analyzed the types of crimes committed. We analyzed which crimes were most commonly committed and which crimes were least commonly committed. We analyzed what the trend of overall crimes committed was from 2019 to 2021.<br>
+
 Approach: We utilized the groupby function and count function. We found that theft was the most commonly committed crime in total for past three years and Ritualism was the least commonly committed crime. <br>
+
+![Ten Most Common Crimes](https://user-images.githubusercontent.com/99552456/164772226-d6a407bb-df26-4e1f-a47d-bd9396ecdaa4.png)
+
 We also noticed that crime decreased year over year from 2019 to 2021. Which was surprising because we assumed it would increase due to the pandemic and amount of news coverage we noticed.<br>
+
+![yearly_crime_line](https://user-images.githubusercontent.com/99552456/164772592-b3105f4f-1026-40b2-b737-b46f53a23e97.png)
 
 ## Section II<br>
 Objectives: In this section, we wanted to analyze the total number of crimes and total number of arrests in chicago for each of last three years. We also wanted to know percentage of crimes that resulted into arrest for each year. We also wanted to see distribution of crimes by domestic and non-domestic. 
