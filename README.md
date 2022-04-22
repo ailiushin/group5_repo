@@ -7,7 +7,7 @@
 ### Project Description (Ryan)
 <br>
 
-As a group, we chose to analyze the crime in Chicago. We thought it would be an interesting subject since our group members all live in or around the Chicago area. The subject of crime in Chicago has a long history and we wanted to check on the current trends of crime in our city. We were curious where does most of the crime occur, what time in the day are crimes committed and what crimes are most commonly committed. 
+As a group, we chose to analyze the crime in Chicago. We thought it would be an interesting subject since our group members all live in or around the Chicago area. The subject of crime in Chicago has a long history and we wanted to check on the current trends of crime in our city. We were curious where does most of the crime occur, what time in the day are crimes committed and what crimes are most commonly committed. Through analysis of the crime data we were curious of the crimes committed how many of these resulted in arrest. 
 
 ## Contributors 
 
@@ -76,11 +76,11 @@ Further, we utilized google maps api to plot homicide crimes and concealed carry
 
 ## Section IV <br>
 Overall trend of total crimes per district
-Was analyzed the total number of crimes per district from 2019 to 2021.The rough map of Chicago bellow is possible to visualize how Chicago is dividing. The district with more crimes reported during this period was Jefferson Park, in the North Side of Chicago. Comparing the number of crimes in 2019 with 2021 in Jefferson Park district, the crimes decreased 39.9%
+We analyzed the total number of crimes per district from 2019 to 2021.The rough map of Chicago below makes it possible to visualize how Chicago is divided. The district with more crimes reported during this period was Jefferson Park, in the North Side of Chicago. Comparing the number of crimes in 2019 with 2021 in Jefferson Park district, the crimes decreased 39.9%
 <br>
 ![mapOfChicago](https://user-images.githubusercontent.com/100001858/164586783-9b5b628b-4605-4106-a13a-334b9b2cd945.jpg)
 <br>
 ![Crimes_per_District](https://user-images.githubusercontent.com/100001858/164586912-6fa10105-ab05-483e-8c5b-99eaec1b95da.png)
 
 ## Conclusion (Ryan)
-In conclusion, we found out some interesting information that varied from some of our initial assumptions. Crime actually decreased each year from 2019 to 2021, which we initially assumed would increase.
+In conclusion, we found out some interesting information about crime in the city of Chicago.  We learned that often crimes committed and reported to police don't lead to arrest. The district with the highest crime totals for the past three years was Jefferson Park. Crime is often committed during the day and not only during the cover of night. Theft and Battery are the most frequently committed types of crime. Finally, Crime actually decreased each year from 2019 to 2021, so the state of crime in Chicago has better over the past two years.
