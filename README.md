@@ -7,7 +7,7 @@
 ### Project Description (Ryan)
 <br>
 
-As a group, we chose to analyze the crime in Chicago. We thought it would be an interesting subject since our group members all live in or around the Chicago area. The subject of crime in Chicago has a long history and we wanted to check on the current trends of crime in our city. We were curious where does most of the crime occur, what time in the day are crimes committed and what crimes are most commonly committed. Through analysis of the crime data we alos grew curious of the crimes committed how many of these resulted in arrest. 
+As a group, we chose to analyze the crime in Chicago. We thought it would be an interesting subject since our group members all live in or around the Chicago area. The subject of crime in Chicago has a long history and we wanted to check on the current trends of crime in our city. We were curious where does most of the crime occur, what time in the day are crimes committed and what crimes are most commonly committed. Through analysis of the crime data we also grew curious of the crimes committed how many of them resulted in arrest. We will use the skills learned in class to present an informational depiction of crime in Chicago.
 
 ## Contributors 
 
