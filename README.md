@@ -56,7 +56,7 @@ Objectives: In this section, we wanted to analyze the total number of crimes and
 <br>
 Approach: We used Pandas dataframe module to separate the data for each year and those with or without arrest. We used bar plots to show trend of crimes and arrests. We also performed statistical analysis using chi-square test, to see if the changes in total number of crimes/arrests are statistically significant. 
 <br>
-Findings: We found that both number of crimes and arrests reduced for last three years, though the reduction in arrests was more substantial. The changes in both number of crimes and number of arrests were found statistically significant within 95% confidence interval.In addition, we observed that on average, only about 20% of crimes ended up with arrests. It was interesting to observe that, the percentage arrest went down considerably from 2020 to 2021 eventhough, the total number of crimes did not go down at same level. 
+Findings: We found that both number of crimes and arrests reduced for last three years, though the reduction in arrests was more substantial. The changes in both number of crimes and number of arrests were found statistically significant within 95% confidence interval. In addition, we observed that on average, only about 20% of crimes ended up with arrests. It was interesting to observe that, the percentage arrest went down considerably from 2020 to 2021 eventhough, the total number of crimes did not go down at same level. 
 
 ![chicago_crime_arrest](https://user-images.githubusercontent.com/99154332/164585329-6f6c5c89-1d8b-48d7-abe8-50b3e7a03796.png)
 
@@ -83,3 +83,4 @@ Was analyzed the total number of crimes per district from 2019 to 2021.The rough
 ![Crimes_per_District](https://user-images.githubusercontent.com/100001858/164586912-6fa10105-ab05-483e-8c5b-99eaec1b95da.png)
 
 ## Conclusion (Ryan)
+In conclusion, we found out some interesting information that varied from some of our initial assumptions. Crime actually decreased each year from 2019 to 2021, which we initially assumed would increase.
