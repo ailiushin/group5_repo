@@ -7,7 +7,7 @@
 ### Project Description (Ryan)
 <br>
 
-As a group, we chose to analyze the crime in Chicago. We thought it would be an interesting subject since our group members all live in or around the Chicago area. The subject of crime in Chicago has a long history and we wanted to check on the current trends of crime in our city. We were curious where does most of the crime occur, what time in the day are crimes committed and what crimes are most commonly committed. Through analysis of the crime data we were curious of the crimes committed how many of these resulted in arrest. 
+As a group, we chose to analyze the crime in Chicago. We thought it would be an interesting subject since our group members all live in or around the Chicago area. The subject of crime in Chicago has a long history and we wanted to check on the current trends of crime in our city. We were curious where does most of the crime occur, what time in the day are crimes committed and what crimes are most commonly committed. Through analysis of the crime data we alos grew curious of the crimes committed how many of these resulted in arrest. 
 
 ## Contributors 
 
@@ -25,20 +25,6 @@ Python, Matplotlib, GoogleMaps
 <br>
 
 Include this section if this was done as a group project; otherwise, omit this section.  
-#List of Questions and Conclusions
-1. What categories of crime were reported the most and least frequently from 2019 through 2021?
-Through analysis of the Chicago Crime Dataset we learned that Theft, Battery, Criminal Damage, Assault, and Deceptive Practice were the top five most commonly reported types crime in Chicago for years 2019 through 2020. 
-Through analysis of the Chicago Crime Dataset we learned that Human Trafficking, Public Indecency, Other Narcotic Violation, Non-Criminal, and Ritualism were the five least likely reported types of crime. 
-2. How did the total crimes committed trend from year to year?
-The total number of crimes decreased from a total of 258,143 in 2019 down to 207,427 in 2020 and then decreased to 202,350 in 2021. This information was intriguing to our group as we assumed that crime went up in 2020 with pandemic.
-3. What percentage of crimes reported resulted in arrests? How did crimes commited and arrests trend?
-From the analysis  of the data, we learned that only about 17% of the crimes reported resulted in arrests. The number and percentage of arrest decreased each year from 2019 to 2021.
-4. Were more crimes domestic or not domestic? 
-The majority at about 81% of crimes reported were not domestic crimes. 
-5. What time of the day do most of the crimes reported occur?
-From this analysis of crime at the hours in the day. We see that after 7AM crimes are committed consistentally throughtout the day and into the night. Crimes are not as commonly committed or reported from 1AM to 6AM. The lowest amounts of crimes are committed at 4AM.
-6. Where do crimes occur in Chicago most frequently?
-From our anlaysis we found that the two districts where crimes occured most frequently were Jefferson Park and Lakeview.
 
 ## Section I (Ryan images) <br>
 Objective: In this section we analyzed the types of crimes committed. We analyzed which crimes were most commonly committed and which crimes were least commonly committed. We analyzed what the trend of overall crimes committed was from 2019 to 2021.<br>
@@ -83,4 +69,4 @@ We analyzed the total number of crimes per district from 2019 to 2021.The rough 
 ![Crimes_per_District](https://user-images.githubusercontent.com/100001858/164586912-6fa10105-ab05-483e-8c5b-99eaec1b95da.png)
 
 ## Conclusion (Ryan)
-In conclusion, we found out some interesting information about crime in the city of Chicago.  We learned that often crimes committed and reported to police don't lead to arrest. The district with the highest crime totals for the past three years was Jefferson Park. Crime is often committed during the day and not only during the cover of night. Theft and Battery are the most frequently committed types of crime. Finally, Crime actually decreased each year from 2019 to 2021, so the state of crime in Chicago has better over the past two years.
+In conclusion, we found out some interesting information about crime in the city of Chicago.  We learned that often crimes committed and reported to police don't lead to arrest. The district with the highest crime totals for the past three years was Jefferson Park. Crime is often committed during the day and not only during the cover of night. Theft and Battery are the most frequently committed types of crime. Finally, crime actually decreased each year from 2019 to 2021, so the state of crime in Chicago has better over the past two years.
