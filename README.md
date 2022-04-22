@@ -7,8 +7,7 @@
 ### Project Description (Ryan)
 <br>
 
-#Summary of Questions to be Answered
-In this project our group had many questions we wanted answered. We were curious to learn what type of crimes are the most commonly reported. We wanted to analyze what the trend in crimes reported year over year from 2019 to 2021 was. Did crimes increase? We were interested in learning of the crimes reported in Chicago how many of those crimes lead to arrests. We wanted to see if more crimes were domestic or not domestic. We analyzed whether more crimes happened during the day or at night. We looked at which districts the crimes were occuring in. We wanted to show where homicides tended to occur in Chicago with the google maps API. 
+As a group, we chose to analyze the crime in Chicago. We thought it would be an interesting subject since our group members all live in or around the Chicago area. The subject of crime in Chicago has a long history and we wanted to check on the current trends of crime in our city. We were curious where does most of the crime occur, what time in the day are crimes committed and what crimes are most commonly committed. 
 
 ## Contributors 
 
