@@ -18,8 +18,11 @@ From this analysis of crime at the hours in the day. We see that after 7AM crime
 From our anlaysis we found that the two districts where crimes occured most frequently were Jefferson Park and Lakeview.
 
 Section IV 
+
 Objective: In this section we analyzed what is the least dangerous and the most dangerous hour in Chicago based on the three-year period. Further, we wanted to have a visual representation of homicide and concealed carry violations near Loop & Millenium Park area. 
+
 Our approach: we utilized a series of code lines to cleanse, aggregate and transform the data to plot a below bar chart. We were extremely surprised to find out that the most dangerous hour in Chicago is 12pm and the safest hour is 5am. Based on our analysis we found that the list number of crimes happen between 1am and 10am. This finding was extremely interesting as our team assumed prior to analyzing the data that most crimes happen at after midnight in Chicago. 
 ![Crimes per Time of the Day (3 years)](https://user-images.githubusercontent.com/100001858/164580296-dc284f7e-82a1-46d3-ac40-b8f581671c78.png)
+
 Further, we utilized google maps api to plot homicide crimes and concealed carry violations. We picked these two types of crimes to visually understand how many severe vs light crimes happened in the loop/millennium park area over the last 3 year. Based on our analysis we conclude that loop area and millennium park are relatively safe with very little crime occurrence. We think this is mainly due to a lave police there. Two maps below summarize our findings. 
 ![CONCEALED CARRY LICENSE VIOLATION (3 years)](https://user-images.githubusercontent.com/100001858/164580643-1e5cbb88-5ebd-4a51-a8f2-4f0a30052c03.png) ![HOMICIDES (3 years)](https://user-images.githubusercontent.com/100001858/164580675-ff599e26-6dd0-419d-98a7-46a03169e01f.png)
