@@ -24,9 +24,7 @@ CVS files can be found in input folder in the repo: https://github.com/ailiushin
 Python, Matplotlib, GoogleMaps
 <br>
 
-Include this section if this was done as a group project; otherwise, omit this section.  
-
-## Section I (Ryan images) <br>
+## Section I <br>
 Objective: In this section we analyzed the types of crimes committed. We analyzed which crimes were most commonly committed and which crimes were least commonly committed. We analyzed what the trend of overall crimes committed was from 2019 to 2021.<br>
 
 Approach: We utilized the groupby function and count function. We found that Theft was the most commonly committed crime in total for past three years and Ritualism was the least commonly committed crime. <br>
@@ -54,19 +52,18 @@ We also wanted to classify the data into domestic vs non-domestic to see contrib
 
 ## Section III<br>
 Objective: In this section we analyzed what is the least dangerous and the most dangerous hour in Chicago based on the three-year period. Further, we wanted to have a visual representation of homicide and concealed carry violations near Loop & Millenium Park area. <br>
-Our approach: we utilized a series of code lines to cleanse, aggregate and transform the data to plot a below bar chart. We were extremely surprised to find out that the most dangerous hour in Chicago is 12pm and the safest hour is 5am. Based on our analysis we found that the least number of crimes happen between 1am and 10am. This finding was extremely interesting as our team assumed prior to analyzing the data that most crimes happen at after midnight in Chicago.<br> 
+Our approach: we utilized a series of code lines to cleanse, aggregate and transform the data to plot the below bar chart. We were extremely surprised to find out that the most dangerous hour in Chicago is 12pm and the safest hour is 5am. Based on our analysis we found that the least number of crimes happen between 1am and 10am. This finding was extremely interesting as our team assumed prior to analyzing the data that most crimes happen after midnight in Chicago.<br> 
 ![Crimes per Time of the Day (3 years)](https://user-images.githubusercontent.com/100001858/164580296-dc284f7e-82a1-46d3-ac40-b8f581671c78.png)<br>
-Further, we utilized google maps api to plot homicide crimes and concealed carry violations. We picked these two types of crimes to visually understand how many severe vs light crimes happened in the loop/millennium park area over the last 3 year. Based on our analysis we conclude that loop area and millennium park are relatively safe with very little crime occurrence. We think this is mainly due to a lave police there. Two maps below summarize our findings. 
+Further, we utilized google maps api to plot homicide crimes and concealed carry violations. We picked these two types of crimes to visually understand how many severe vs light crimes happened in the loop/millennium park area over the last three years. Based on our analysis we concluded that loop area and millennium park are relatively safe with very little crime occurrence. We think this is mainly due to a large police presence in the area. Two maps below summarize our findings. 
 ![CONCEALED CARRY LICENSE VIOLATION (3 years)](https://user-images.githubusercontent.com/100001858/164580643-1e5cbb88-5ebd-4a51-a8f2-4f0a30052c03.png) ![HOMICIDES (3 years)](https://user-images.githubusercontent.com/100001858/164580675-ff599e26-6dd0-419d-98a7-46a03169e01f.png)
 <br>
 
 ## Section IV <br>
-Overall trend of total crimes per district
-We analyzed the total number of crimes per district from 2019 to 2021.The rough map of Chicago below makes it possible to visualize how Chicago is divided. The district with more crimes reported during this period was Jefferson Park, in the North Side of Chicago. Comparing the number of crimes in 2019 with 2021 in Jefferson Park district, the crimes decreased 39.9%
+We looked at the overall trend of total crimes per district. We further analyzed the total number of crimes per district from 2019 to 2021.The rough map of Chicago below makes it possible to visualize how Chicago is divided. The district with more crimes reported during this period was Jefferson Park, in the North Side of Chicago. Comparing the number of crimes in 2019 with 2021 in Jefferson Park district, the crimes decreased 39.9%
 <br>
 ![mapOfChicago](https://user-images.githubusercontent.com/100001858/164586783-9b5b628b-4605-4106-a13a-334b9b2cd945.jpg)
 <br>
 ![Crimes_per_District](https://user-images.githubusercontent.com/100001858/164586912-6fa10105-ab05-483e-8c5b-99eaec1b95da.png)
 
-## Conclusion (Ryan)
+## Conclusion
 In conclusion, we found out some interesting information about crime in the city of Chicago.  We learned that often crimes committed and reported to police don't lead to arrest. The district with the highest crime totals for the past three years was Jefferson Park. Crime is often committed during the day and not only during the cover of night. Theft and Battery are the most frequently committed types of crime. Finally, crime actually decreased each year from 2019 to 2021, so the state of crime in Chicago has better over the past two years.
